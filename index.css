@@ -1,3 +1,13 @@
 body {
   background: green;
 }
+
+.fancy-header {
+  color: #FFFFFF;
+  font-size: 32px;
+}
+
+.fancy-text {
+  font-size: 24px;
+  color: #FFFFFF;
+}
